@@ -2,7 +2,7 @@
 
 ## 2018 (9)
 
-[Feb](#feburary) | [Jan](#january)
+[Feb](#feburary-1) | [Jan](#january-8)
 
 ### Feburary (1)
 * **Prityazhenie**《Притяжение》 ![][s3]
