@@ -5,17 +5,18 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 ## 2018
 
 ### Feb 2018
-* **Prityazhenie**《Притяжение》 ![][s3]
+* **Operation Red Sea**《红海行动》🇨🇳 ![][s4]
+* **Prityazhenie**《Притяжение》🇷🇺 ![][s3]
 
 ### Jan 2018 (8)
-* **Till the End of the World**《南极之恋》 ![][s35]
-* **24 Hours to Live** ![][s35]
-* **The Maze Runner: The Death Cure** ![][s3]
-* **Forever Young**《无问西东》 ![][s4]
-* **The Ex-File: The Return of the Exes** 《前任3：再见前任》 ![][s3]
-* **Have a Nice Day**《大世界》 ![][s4]
-* **Jumanji: Welcome to the Jungle** ![][s3]
-* **Salyut-7**《Салют-7》 ![][s4]
+* **Till the End of the World**《南极之恋》🇨🇳 ![][s35]
+* **24 Hours to Live** 🇺🇸 ![][s35]
+* **The Maze Runner: The Death Cure** 🇺🇸 ![][s3]
+* **Forever Young**《无问西东》🇨🇳 ![][s4]
+* **The Ex-File: The Return of the Exes** 《前任3：再见前任》🇨🇳 ![][s3]
+* **Have a Nice Day**《大世界》🇨🇳 ![][s4]
+* **Jumanji: Welcome to the Jungle** 🇺🇸 ![][s3]
+* **Salyut-7**《Салют-7》🇷🇺 ![][s4]
 
 **[⬆ back to top](#movies-i-have-seen)**
 
