@@ -5,7 +5,7 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 ## 2018
 
 ### Feb 2018
-* **The Cloverfield Paradox** ![][US] ![][s3]
+* **The Cloverfield Paradox** ![][US] ![][NiT] ![][s3]
 * **Operation Red Sea**《红海行动》![][CN] ![][s4]
 * **Prityazhenie**《Притяжение》![][RU] ![][s3]
 
@@ -32,6 +32,7 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 [s4]: https://wt365.github.io/lib/svg/star/s4.svg "4 Stars"
 [s45]: https://wt365.github.io/lib/svg/star/s45.svg "4.5 Stars"
 [s5]: https://wt365.github.io/lib/svg/star/s5.svg "5 Stars"
+[NiT]: https://wt365.github.io/lib/svg/nit.svg "Not Seen in Theater"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [RU]: https://wt365.github.io/lib/svg/flag/ru.svg "Russia"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
