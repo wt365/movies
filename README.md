@@ -5,6 +5,7 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 ## 2018
 
 ### Feb 2018
+* **The Cloverfield Paradox** ![][US] ![][s3]
 * **Operation Red Sea**《红海行动》![][CN] ![][s4]
 * **Prityazhenie**《Притяжение》![][RU] ![][s3]
 
