@@ -1,5 +1,8 @@
 # Movies I Have Seen
 
+![][star] - marks my rating.
+![][NiT] - not seen in theater.
+
 This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 
 ## 2018
