@@ -8,6 +8,7 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 ## 2018
 
 ### Feb 2018
+* **The Death of Stalin** (2017) ![][UK] ![][NiT] ![][s45]
 * **The Cloverfield Paradox** ![][US] ![][NiT] ![][s3]
 * **Operation Red Sea**《红海行动》![][CN] ![][s4]
 * **Prityazhenie**《Притяжение》![][RU] ![][s3]
@@ -24,7 +25,14 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 
 **[⬆ back to top](#movies-i-have-seen)**
 
+
+
+
+
+![][loff]
+
 [star]: https://wt365.github.io/lib/svg/star/star.svg "Rating"
+[loff]: https://wt365.github.io/lib/svg/light-off.svg "Light off"
 [s0]: https://wt365.github.io/lib/svg/star/s0.svg "O Star"
 [s05]: https://wt365.github.io/lib/svg/star/s05.svg "0.5 Star"
 [s1]: https://wt365.github.io/lib/svg/star/s1.svg "1 Star"
@@ -40,3 +48,4 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [RU]: https://wt365.github.io/lib/svg/flag/ru.svg "Russia"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
+[UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
