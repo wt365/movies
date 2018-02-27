@@ -1,6 +1,7 @@
 # Movies I Have Seen
 
 ![][star] - marks my rating.
+
 ![][NiT] - not seen in theater.
 
 This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
@@ -24,6 +25,7 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 
 **[⬆ back to top](#movies-i-have-seen)**
 
+[star]: https://wt365.github.io/lib/svg/star/star.svg "Rating"
 [s0]: https://wt365.github.io/lib/svg/star/s0.svg "O Star"
 [s05]: https://wt365.github.io/lib/svg/star/s05.svg "0.5 Star"
 [s1]: https://wt365.github.io/lib/svg/star/s1.svg "1 Star"
