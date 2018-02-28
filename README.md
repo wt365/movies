@@ -3,6 +3,8 @@
 ![][star] - marks my rating.  
 ![][NiT] - not seen in theater.
 
+![][loff] - "Closing credits are also part of a film. Please keep lights off."
+
 This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 
 ## 2018
@@ -24,12 +26,6 @@ This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 * **Salyut-7**《Салют-7》![][RU] ![][s4]
 
 **[⬆ back to top](#movies-i-have-seen)**
-
-
-
-
-
-![][loff]
 
 [star]: https://wt365.github.io/lib/svg/star/star.svg "Rating"
 [loff]: https://wt365.github.io/lib/svg/light-off.svg "Light off"
