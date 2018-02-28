@@ -3,7 +3,8 @@
 ![][star] - marks my rating.  
 ![][NiT] - not seen in theater.
 
-![][loff] - "Closing credits are also part of a film. Please keep lights off."
+![][loff]  
+*"Closing credits are also part of a film. Please keep lights off."*
 
 This year (2018): [Feb](#feb-2018) | [Jan](#jan-2018-8)
 
