@@ -61,3 +61,4 @@
 [UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
 [KR]: https://wt365.github.io/lib/svg/flag/kr.svg "Korea"
 [AU]: https://wt365.github.io/lib/svg/flag/au.svg "Australia"
+[AU]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
