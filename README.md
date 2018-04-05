@@ -12,7 +12,7 @@
 ## 2018
 
 ### April 2018
-* **Wrath of Silence**《暴裂无声》![][s45]
+* **Wrath of Silence**《暴裂无声》![][CN] ![][s45]
 * **Ready Player One** ![][US] ![][s4]
 
 ### March 2018 (9)
