@@ -12,7 +12,8 @@
 ## 2018
 
 ### April 2018
-* **Meru** (2015) ![][US] ![][s5]
+* **Isle of Dogs** ![][US] ![][s45]
+* **Meru** (2015) ![][US] ![][NiT] ![][s5]
 * **Wrath of Silence**《暴裂无声》![][CN] ![][s45]
 * **Ready Player One** ![][US] ![][s4]
 
