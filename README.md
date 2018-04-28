@@ -12,6 +12,7 @@
 ## 2018
 
 ### April 2018
+* **A or B**《幕后玩家》![][CN] ![][s4]
 * **Isle of Dogs** ![][US] ![][s45]
 * **Meru** (2015) ![][US] ![][NiT] ![][s5]
 * **Wrath of Silence**《暴裂无声》![][CN] ![][s45]
