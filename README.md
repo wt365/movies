@@ -7,11 +7,11 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-[April](#april-2018) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
+[April](#april-2018-6) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
 
 ## 2018
 
-### April 2018
+### April 2018 (6)
 * **The Trough**《低压槽》![][CN] ![][s35]
 * **A or B**《幕后玩家》![][CN] ![][s4]
 * **Isle of Dogs** ![][US] ![][s45]
