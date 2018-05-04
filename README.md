@@ -12,7 +12,7 @@
 ## 2018
 
 ### May 2018
-* **Perfect Strangers**《Perfetti sconosciuti》![][IT] ![][s45]
+* **Perfect Strangers**《Perfetti sconosciuti》![][IT] ![][NiT] ![][s45]
 
 ### April 2018 (6)
 * **The Trough**《低压槽》![][CN] ![][s35]
