@@ -7,9 +7,12 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-[April](#april-2018-6) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
+[May](#may-2018) | [April](#april-2018-6) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
 
 ## 2018
+
+### May 2018
+* **Perfect Strangers**《Perfetti sconosciuti》![][IT] ![][s45]
 
 ### April 2018 (6)
 * **The Trough**《低压槽》![][CN] ![][s35]
@@ -35,7 +38,7 @@
 * **The Death of Stalin** (2017) ![][UK] ![][NiT] ![][s45]
 * **The Cloverfield Paradox** ![][US] ![][NiT] ![][s3]
 * **Operation Red Sea**《红海行动》![][CN] ![][s4]
-* **Prityazhenie**《Притяжение》![][RU] ![][s3]
+* **Attraction**《Притяжение》![][RU] ![][s3]
 
 ### Jan 2018 (8)
 * **Till the End of the World**《南极之恋》![][CN] ![][s35]
@@ -70,3 +73,4 @@
 [KR]: https://wt365.github.io/lib/svg/flag/kr.svg "Korea"
 [AU]: https://wt365.github.io/lib/svg/flag/au.svg "Australia"
 [JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
+[IT]: https://wt365.github.io/lib/svg/flag/it.svg "Italy"
