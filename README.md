@@ -12,6 +12,7 @@
 ## 2018
 
 ### May 2018
+* **Gonjiam: Haunted Asylum**《곤지암》![][KR] ![][NiT] ![][s35]
 * **Perfect Strangers**《Perfetti sconosciuti》![][IT] ![][NiT] ![][s45]
 
 ### April 2018 (6)
