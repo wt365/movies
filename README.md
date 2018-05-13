@@ -12,6 +12,7 @@
 ## 2018
 
 ### May 2018
+* **Detective Chinatown 2**《唐人街探案2》![][CN] ![][NiT] ![][s3]
 * **Gonjiam: Haunted Asylum**《곤지암》![][KR] ![][NiT] ![][s35]
 * **Perfect Strangers**《Perfetti sconosciuti》![][IT] ![][NiT] ![][s45]
 
