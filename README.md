@@ -12,7 +12,7 @@
 ## 2018
 
 ### June 2018
-* **Burning**《》![][KR] ![][NiT] ![][s45]
+* **Burning**《버닝》![][KR] ![][NiT] ![][s45]
 
 ### May 2018 (4)
 * **Fahrenheit 451** ![][US] ![][NiT] ![][s3]
