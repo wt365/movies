@@ -7,9 +7,12 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-[May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
+[June](#june-2018) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
 
 ## 2018
+
+### June 2018
+* **Burning**《》![][KR] ![][NiT] ![][s45]
 
 ### May 2018 (4)
 * **Fahrenheit 451** ![][US] ![][NiT] ![][s3]
