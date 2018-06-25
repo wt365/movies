@@ -12,6 +12,7 @@
 ## 2018
 
 ### June 2018
+* **Days of Being Wild**《阿飞正传》![][HK] ![][NiT] ![][s45]
 * **Survival Family**《サバイバルファミリー》![][JP] ![][NiT] ![][s45]
 * **Burning**《버닝》![][KR] ![][NiT] ![][s45]
 
@@ -81,3 +82,4 @@
 [AU]: https://wt365.github.io/lib/svg/flag/au.svg "Australia"
 [JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
 [IT]: https://wt365.github.io/lib/svg/flag/it.svg "Italy"
+[HK]: https://wt365.github.io/lib/svg/flag/hk.svg "Hong Kong"
