@@ -12,7 +12,7 @@
 ## 2018
 
 ### July 2018
-* **Calibre** ![][UK] ![][s3]
+* **Calibre** ![][UK] ![][NiT] ![][s3]
 
 ### June 2018 (4)
 * **Dying to Survive**《我不是药神》![][CN] ![][s45]
