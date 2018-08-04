@@ -7,11 +7,13 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-[July](#july-2018) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
+[July](#july-2018-3) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
 
 ## 2018
 
-### July 2018
+### July 2018 (3)
+* **Hello Mr. Billionaire**《西虹市首富》![CN] ![][s3]
+* **Hidden Man**《邪不压正》![][CN] ![][s4]
 * **Calibre** ![][UK] ![][NiT] ![][s3]
 
 ### June 2018 (4)
