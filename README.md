@@ -7,11 +7,14 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-[Aug](#aug-2018) | [July](#july-2018-3) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
+[Sept](#sept-2018) | [Aug](#aug-2018-3) | [July](#july-2018-3) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
 
 ## 2018
 
-### Aug 2018
+### Sept 2018
+* **The Hidden Land: Back To No Man's Land In Northern Tibet**《藏北秘岭——重返无人区》![][CN] ![][s4]
+
+### Aug 2018 (3)
 * **Rush** (2013) ![][UK] ![][NiT] ![][s5]
 * **The Island**《一出好戏》![][CN] ![][s4]
 * **Shoplifters**《万引き家族》![][JP] ![][s5]
@@ -23,7 +26,7 @@
 
 ### June 2018 (4)
 * **Dying to Survive**《我不是药神》![][CN] ![][s45]
-* **Days of Being Wild**《阿飞正传》![][HK] ![][NiT] ![][s45]
+* **Days of Being Wild**《阿飛正傳》(1990) ![][HK] ![][NiT] ![][s45]
 * **Survival Family**《サバイバルファミリー》![][JP] ![][NiT] ![][s45]
 * **Burning**《버닝》![][KR] ![][NiT] ![][s45]
 
@@ -31,7 +34,7 @@
 * **Fahrenheit 451** ![][US] ![][NiT] ![][s3]
 * **Detective Chinatown 2**《唐人街探案2》![][CN] ![][NiT] ![][s3]
 * **Gonjiam: Haunted Asylum**《곤지암》![][KR] ![][NiT] ![][s35]
-* **Perfect Strangers**《Perfetti sconosciuti》![][IT] ![][NiT] ![][s45]
+* **Perfect Strangers**《Perfetti sconosciuti》(2016) ![][IT] ![][NiT] ![][s45]
 
 ### April 2018 (6)
 * **The Trough**《低压槽》![][CN] ![][s35]
