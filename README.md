@@ -12,6 +12,8 @@
 ## 2018
 
 ### Sept 2018
+* **L Storm**《L風暴》![][HK] ![][s3]
+* **The Road Not Taken**《未择之路》![][CN] ![][s4]
 * **Mission: Impossible - Fallout** ![][US] ![][s4] 
 * **The Hidden Land: Back To No Man's Land In Northern Tibet**《藏北秘岭——重返无人区》![][CN] ![][s4]
 
