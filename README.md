@@ -12,6 +12,7 @@
 ## 2018
 
 ### Sept 2018
+* **Z Storm**《Z風暴》![][HK] ![][NiT] ![][s3]
 * **L Storm**《L風暴》![][HK] ![][s3]
 * **The Road Not Taken**《未择之路》![][CN] ![][s4]
 * **Mission: Impossible - Fallout** ![][US] ![][s4] 
