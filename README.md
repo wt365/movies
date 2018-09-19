@@ -12,9 +12,10 @@
 ## 2018
 
 ### Sept 2018
-* **Z Storm**《Z風暴》![][HK] ![][NiT] ![][s3]
+* **S Storm**《S風暴》(2016) ![][HK] ![][NiT] ![][s3]
+* **Z Storm**《Z風暴》(2014) ![][HK] ![][NiT] ![][s3]
 * **L Storm**《L風暴》![][HK] ![][s3]
-* **The Road Not Taken**《未择之路》![][CN] ![][s4]
+* **The Road Not Taken**《未择之路》![][CN] ![][s35]
 * **Mission: Impossible - Fallout** ![][US] ![][s4] 
 * **The Hidden Land: Back To No Man's Land In Northern Tibet**《藏北秘岭——重返无人区》![][CN] ![][s4]
 
