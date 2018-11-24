@@ -12,6 +12,7 @@
 ## 2018
 
 ### Nov 2018
+* **An Elephant Sitting Still**《大象席地而坐》![][CN] ![][NiT] ![][s4]
 * **A Cool Fish**《无名之辈》![][CN] ![][s5]
 * **Last Letter**《你好，之华》![][CN] ![][s4]
 
