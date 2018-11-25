@@ -12,6 +12,7 @@
 ## 2018
 
 ### Nov 2018
+* **The Great Buddha+**《大佛普拉斯》(2017) ![][TW] ![][NiT] ![][s4]
 * **An Elephant Sitting Still**《大象席地而坐》![][CN] ![][NiT] ![][s4]
 * **A Cool Fish**《无名之辈》![][CN] ![][s5]
 * **Last Letter**《你好，之华》![][CN] ![][s4]
@@ -110,3 +111,4 @@
 [JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
 [IT]: https://wt365.github.io/lib/svg/flag/it.svg "Italy"
 [HK]: https://wt365.github.io/lib/svg/flag/hk.svg "Hong Kong"
+[TW]: https://wt365.github.io/lib/svg/flag/tw.svg "Taiwan"
