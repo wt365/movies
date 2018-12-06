@@ -11,6 +11,9 @@
 
 ## 2018
 
+### Dec 2018
+* **Einstein and Einstein**《狗十三》![][CN] ![][s4]
+
 ### Nov 2018 (4)
 * **The Great Buddha+**《大佛普拉斯》(2017) ![][TW] ![][NiT] ![][s4]
 * **An Elephant Sitting Still**《大象席地而坐》![][CN] ![][NiT] ![][s4]
