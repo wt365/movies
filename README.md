@@ -12,6 +12,7 @@
 ## 2018
 
 ### Dec 2018
+* **The Secret Life of Walter Mitty** (2013) ![][US] ![][NiT] ![][s4]
 * **Adrift** ![][US] ![][s3]
 * **Einstein and Einstein**《狗十三》![][CN] ![][s4]
 
