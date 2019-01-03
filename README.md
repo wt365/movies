@@ -7,7 +7,15 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-[Dec](#dec-2018-3) | [Nov](#nov-2018-4) | [Sept](#sept-2018-9) | [Aug](#aug-2018-3) | [July](#july-2018-3) | [June](#june-2018-4) | [May](#may-2018-4) | [April](#april-2018-6) | [March](#march-2018-9) | [Feb](#feb-2018-5) | [Jan](#jan-2018-8)
+2019: [Jan](#jan-2019)
+
+Previous Years: [2018](#2018)
+
+## 2019
+
+### Jan 2019
+* **Bird Box** (2018) ![][CN] ![][NiT] ![][NFX] ![][s35]
+* **Youth**《东北插班生》(2017) ![][CN] ![][NiT] ![][s3]
 
 ## 2018
 
@@ -107,6 +115,7 @@
 [s45]: https://wt365.github.io/lib/svg/star/s45.svg "4.5 Stars"
 [s5]: https://wt365.github.io/lib/svg/star/s5.svg "5 Stars"
 [NiT]: https://wt365.github.io/lib/svg/nit.svg "Not Seen in Theater"
+[NFX]: https://wt365.github.io/lib/svg/tv/netflix.svg "Netflix"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [RU]: https://wt365.github.io/lib/svg/flag/ru.svg "Russia"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
