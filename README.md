@@ -18,7 +18,7 @@ Previous Years: [2018](#2018-58)
 * **Startups**《燃点》 ![][CN] ![][s35]
 * **Black Mirror: Bandersnatch** (2018) ![][US] ![][UK] ![][NiT] ![][NFX] ![][s4]
 * **Four Springs**《四个春天》![][CN] ![][s4]
-* **Bird Box** (2018) ![][CN] ![][NiT] ![][NFX] ![][s35]
+* **Bird Box** (2018) ![][US] ![][NiT] ![][NFX] ![][s35]
 * **Youth**《东北插班生》(2017) ![][CN] ![][NiT] ![][s3]
 
 ## 2018 (58)
