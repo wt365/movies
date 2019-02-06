@@ -14,6 +14,7 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Feb 2019
+* **Pegasus**《飞驰人生》![][CN] ![][s45]
 * **The Wandering Earth**《流浪地球》![][CN] ![][s45]
 
 ### Jan 2019 (6)
