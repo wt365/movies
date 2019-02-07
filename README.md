@@ -14,6 +14,9 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Feb 2019
+* **Gerry** (2002) ![][US] ![][s35]
+* **Crazy Alien**《疯狂的外星人》![][CN] ![][NiT] ![][s3]
+* **Duckweed**《乘风破浪》(2017) ![][CN] ![][2nd] ![][NiT] ![][s4]
 * **Pegasus**《飞驰人生》![][CN] ![][s45]
 * **The Wandering Earth**《流浪地球》![][CN] ![][s45]
 
@@ -134,3 +137,4 @@ Previous Years: [2018](#2018-58)
 [IT]: https://wt365.github.io/lib/svg/flag/it.svg "Italy"
 [HK]: https://wt365.github.io/lib/svg/flag/hk.svg "Hong Kong"
 [TW]: https://wt365.github.io/lib/svg/flag/tw.svg "Taiwan"
+[2nd]: https://wt365.github.io/lib/svg/2nd.svg "2nd time watching"
