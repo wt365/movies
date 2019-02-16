@@ -14,6 +14,7 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Feb 2019
+* **Poloar** ![][US] ![][NiT] ![][NFX] ![][s4]
 * **The New King of Comedy**《新喜剧之王》![][CN] ![][NiT] ![][s4]
 * **Integrity**《廉政風雲·煙幕》![][HK] ![][NiT] ![][s3]
 * **Gerry** (2002) ![][US] ![][s35]
@@ -129,6 +130,7 @@ Previous Years: [2018](#2018-58)
 [s5]: https://wt365.github.io/lib/svg/star/s5.svg "5 Stars"
 [NiT]: https://wt365.github.io/lib/svg/nit.svg "Not Seen in Theater"
 [NFX]: https://wt365.github.io/lib/svg/tv/netflix.svg "Netflix"
+[HBO]: https://wt365.github.io/lib/svg/tv/hbo.svg "HBO"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [RU]: https://wt365.github.io/lib/svg/flag/ru.svg "Russia"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
