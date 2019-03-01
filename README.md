@@ -14,9 +14,9 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Feb 2019 (12)
-* **Green Book** ![][US] ![][NiT] ![][s4]
-* **Free Solo** ![][US] ![][NiT] ![][s5]
-* **Roma** ![][MX] ![][NiT] ![][NFX] ![][s45]
+* **Green Book** (2018) ![][US] ![][NiT] ![][s4]
+* **Free Solo** (2018) ![][US] ![][NiT] ![][s5]
+* **Roma** (2018) ![][MX] ![][NiT] ![][NFX] ![][s45]
 * **Brexit: The Uncivil War** ![][UK] ![][NiT] ![][CH4] ![][s4]
 * **Polar** ![][US] ![][NiT] ![][NFX] ![][s4]
 * **The New King of Comedy**《新喜剧之王》![][CN] ![][NiT] ![][s4]
