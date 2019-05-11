@@ -14,7 +14,7 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### May 2019
-* **Capharnaüm**《كفرناحوم》(2018) ![][LB] ![][FR] ![][US] ![][s45]
+* **Capharnaüm** (2018) ![][LB] ![][FR] ![][US] ![][s45]
 
 ### April 2019 (2)
 * **Inside No. 9 Dead Line** (2018) ![][UK] ![][NiT] ![][BBC] ![][s35]
