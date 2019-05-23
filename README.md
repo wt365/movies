@@ -14,6 +14,7 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### May 2019
+* **Extremely Wicked, Shockingly Evil and Vile** ![][US] ![][NiT] ![][NFX] ![][s4]
 * **Capharnaüm** (2018) ![][LB] ![][FR] ![][US] ![][s45]
 
 ### April 2019 (2)
