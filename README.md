@@ -7,13 +7,16 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-2019: [May](#may-2019) | [April](#april-2019-2) | [March](#march-2019-5) | [Feb](#feb-2019-12) | [Jan](#jan-2019-6)
+2019: [June](#june-2019) | [May](#may-2019-2) | [April](#april-2019-2) | [March](#march-2019-5) | [Feb](#feb-2019-12) | [Jan](#jan-2019-6)
 
 Previous Years: [2018](#2018-58)
 
 ## 2019
 
-### May 2019
+### June 2019
+* **Chasing the Dragon 2: Wild Wild Bunch** ![][HK] ![][CN] ![][s3]
+
+### May 2019 (2)
 * **Extremely Wicked, Shockingly Evil and Vile** ![][US] ![][NiT] ![][NFX] ![][s4]
 * **Capharnaüm** (2018) ![][LB] ![][FR] ![][US] ![][s45]
 
