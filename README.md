@@ -14,7 +14,7 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### June 2019
-* **Chasing the Dragon 2: Wild Wild Bunch** ![][HK] ![][CN] ![][s3]
+* **Chasing the Dragon 2: Wild Wild Bunch**《追龍2：贼王》![][HK] ![][CN] ![][s3]
 
 ### May 2019 (2)
 * **Extremely Wicked, Shockingly Evil and Vile** ![][US] ![][NiT] ![][NFX] ![][s4]
