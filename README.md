@@ -13,6 +13,7 @@ Previous Years: [2018](#2018-58)
 
 ## 2019
 ### July 2019
+* **Looking Up**《银河补习班》![][CN] ![][s35]
 * **The White Storm 2: Drug Lords**《掃毒2：天地對決》![][HK] ![][s3]
 
 ### June 2019 (3)
