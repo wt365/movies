@@ -14,7 +14,11 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Aug 2019
+* **Fast & Furious Presents: Hobbs & Shaw** ![][US] ![][s35]
+* **Remain Silent**《保持沉默》![][CN] ![][s35]
+* **Death Zone: Cleaning Mount Everest** (2018) ![][NP] ![][NiT] ![][s45]
 * **Bodies at Rest**《沉默的证人》![][CN] ![][HK] ![][s3]
+* **Sicario** (2015) ![][US] ![][NiT] ![][s3]
 * **Line Walker** (2016)《使徒行者》![][CN] ![][HK] ![][NiT] ![][s3]
 * **Line Walker 2**《使徒行者2：谍影行动》![][CN] ![][HK] ![][s3]
 * **Ne Zha**《哪吒之魔童降世》![][CN] ![][s35]
@@ -182,4 +186,5 @@ Previous Years: [2018](#2018-58)
 [IN]: https://wt365.github.io/lib/svg/flag/in.svg "India"
 [LB]: https://wt365.github.io/lib/svg/flag/lb.svg "Lebanon"
 [FR]: https://wt365.github.io/lib/svg/flag/fr.svg "France"
+[NP]: https://wt365.github.io/lib/svg/flag/np.svg "Nepal"
 [2nd]: https://wt365.github.io/lib/svg/2nd.svg "2nd Time Watching"
