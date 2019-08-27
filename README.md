@@ -14,6 +14,7 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Aug 2019
+* **American Factory** ![][US] ![][NiT] ![][NFX] ![][s4]
 * **Fast & Furious Presents: Hobbs & Shaw** ![][US] ![][s35]
 * **Remain Silent**《保持沉默》![][CN] ![][s35]
 * **Death Zone: Cleaning Mount Everest** (2018) ![][NP] ![][NiT] ![][s45]
