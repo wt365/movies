@@ -14,13 +14,14 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Aug 2019
+* **The Stool Pigeon**《綫人》(2010) ![][HK] ![][CN] ![][NiT] ![][s35]
 * **American Factory** ![][US] ![][NiT] ![][NFX] ![][s4]
 * **Fast & Furious Presents: Hobbs & Shaw** ![][US] ![][s35]
 * **Remain Silent**《保持沉默》![][CN] ![][s35]
 * **Death Zone: Cleaning Mount Everest** (2018) ![][NP] ![][NiT] ![][s45]
 * **Bodies at Rest**《沉默的证人》![][CN] ![][HK] ![][s3]
 * **Sicario** (2015) ![][US] ![][NiT] ![][s3]
-* **Line Walker** (2016)《使徒行者》![][CN] ![][HK] ![][NiT] ![][s3]
+* **Line Walker**《使徒行者》(2016) ![][CN] ![][HK] ![][NiT] ![][s3]
 * **Line Walker 2**《使徒行者2：谍影行动》![][CN] ![][HK] ![][s3]
 * **Ne Zha**《哪吒之魔童降世》![][CN] ![][s35]
 
