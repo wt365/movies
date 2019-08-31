@@ -14,6 +14,8 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Aug 2019
+* **The Big Short** (2015) ![][US] ![][NiT] ![][s45]
+* **13 Hours: The Secret Soldiers of Benghazi** (2016) ![][US] ![][NiT] ![][s4]
 * **The Stool Pigeon**《綫人》(2010) ![][HK] ![][CN] ![][NiT] ![][s35]
 * **American Factory** ![][US] ![][NiT] ![][NFX] ![][s4]
 * **Fast & Furious Presents: Hobbs & Shaw** ![][US] ![][s35]
