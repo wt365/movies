@@ -7,13 +7,17 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-2019: [Aug](#aug-2019) | [July](#july-2019-2) | [June](#june-2019-3) | [May](#may-2019-2) | [April](#april-2019-2) | [March](#march-2019-5) | [Feb](#feb-2019-12) | [Jan](#jan-2019-6)
+2019: [Sept](#sept-2019) | [Aug](#aug-2019-12) | [July](#july-2019-2) | [June](#june-2019-3) | [May](#may-2019-2) | [April](#april-2019-2) | [March](#march-2019-5) | [Feb](#feb-2019-12) | [Jan](#jan-2019-6)
 
 Previous Years: [2018](#2018-58)
 
 ## 2019
 
-### Aug 2019
+### Sept 2019
+* **Steve Jobs** (2015) ![][US] ![][NiT] ![][s45]
+* **Shanghai Fortress**《上海堡垒》![][CN] ![][NiT] ![][s15]
+
+### Aug 2019 (12)
 * **The Big Short** (2015) ![][US] ![][NiT] ![][s45]
 * **13 Hours: The Secret Soldiers of Benghazi** (2016) ![][US] ![][NiT] ![][s4]
 * **The Stool Pigeon**《綫人》(2010) ![][HK] ![][CN] ![][NiT] ![][s35]
