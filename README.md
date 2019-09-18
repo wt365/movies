@@ -197,5 +197,5 @@ Previous Years: [2018](#2018-58)
 [LB]: https://wt365.github.io/lib/svg/flag/lb.svg "Lebanon"
 [FR]: https://wt365.github.io/lib/svg/flag/fr.svg "France"
 [NP]: https://wt365.github.io/lib/svg/flag/np.svg "Nepal"
-[PT]: https://wt365.github.io/lib/svg/flag/np.svg "Portugal"
+[PT]: https://wt365.github.io/lib/svg/flag/pt.svg "Portugal"
 [2nd]: https://wt365.github.io/lib/svg/2nd.svg "2nd Time Watching"
