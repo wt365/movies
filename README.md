@@ -14,6 +14,7 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Sept 2019
+* **Elite Squad: The Enemy Within**《Tropa de Elite 2 - O Inimigo Agora É Outro》(2010) ![][PT] ![][NiT] ![][s45]
 * **Song of Youth**《老师·好》![][CN] ![][NiT] ![][s35]
 * **Steve Jobs** (2015) ![][US] ![][NiT] ![][s45]
 * **Shanghai Fortress**《上海堡垒》![][CN] ![][NiT] ![][s15]
