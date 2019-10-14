@@ -7,11 +7,14 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-2019: [Sept](#sept-2019-5) | [Aug](#aug-2019-12) | [July](#july-2019-2) | [June](#june-2019-3) | [May](#may-2019-2) | [April](#april-2019-2) | [March](#march-2019-5) | [Feb](#feb-2019-12) | [Jan](#jan-2019-6)
+2019: [Oct](#oct-2019) | [Sept](#sept-2019-5) | [Aug](#aug-2019-12) | [July](#july-2019-2) | [June](#june-2019-3) | [May](#may-2019-2) | [April](#april-2019-2) | [March](#march-2019-5) | [Feb](#feb-2019-12) | [Jan](#jan-2019-6)
 
 Previous Years: [2018](#2018-58)
 
 ## 2019
+
+### Oct 2019
+* **The Captain**《中国机长》![][CN] ![][s35]
 
 ### Sept 2019 (5)
 * **The Climbers**《攀登者》![][CN] ![][s3]
