@@ -14,6 +14,7 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Oct 2019
+* **Gemini Man** ![][US] ![][s35]
 * **The Captain**《中国机长》![][CN] ![][s35]
 
 ### Sept 2019 (5)
