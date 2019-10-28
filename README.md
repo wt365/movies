@@ -14,6 +14,7 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Oct 2019
+* **Better Days**《少年的你》![][CN] ![][s4]
 * **Gemini Man** ![][US] ![][s35]
 * **The Captain**《中国机长》![][CN] ![][s35]
 
