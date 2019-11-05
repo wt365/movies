@@ -7,13 +7,16 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-2019: [Oct](#oct-2019) | [Sept](#sept-2019-5) | [Aug](#aug-2019-12) | [July](#july-2019-2) | [June](#june-2019-3) | [May](#may-2019-2) | [April](#april-2019-2) | [March](#march-2019-5) | [Feb](#feb-2019-12) | [Jan](#jan-2019-6)
+2019: [Nov](#nov-2019) | [Oct](#oct-2019-3) | [Sept](#sept-2019-5) | [Aug](#aug-2019-12) | [July](#july-2019-2) | [June](#june-2019-3) | [May](#may-2019-2) | [April](#april-2019-2) | [March](#march-2019-5) | [Feb](#feb-2019-12) | [Jan](#jan-2019-6)
 
 Previous Years: [2018](#2018-58)
 
 ## 2019
 
-### Oct 2019
+### Nov 2019
+* **Mr. Nobody** ![][CA] ![][2nd] ![][NiT] ![][s4]
+
+### Oct 2019 (3)
 * **Better Days**《少年的你》![][CN] ![][s4]
 * **Gemini Man** ![][US] ![][s35]
 * **The Captain**《中国机长》![][CN] ![][s35]
@@ -182,26 +185,31 @@ Previous Years: [2018](#2018-58)
 [s4]: https://wt365.github.io/lib/svg/star/s4.svg "4 Stars"
 [s45]: https://wt365.github.io/lib/svg/star/s45.svg "4.5 Stars"
 [s5]: https://wt365.github.io/lib/svg/star/s5.svg "5 Stars"
+<!-- Not in Theater -->
 [NiT]: https://wt365.github.io/lib/svg/nit.svg "Not Seen in Theater"
+<!-- Network -->
 [NFX]: https://wt365.github.io/lib/svg/tv/netflix.svg "Netflix"
 [HBO]: https://wt365.github.io/lib/svg/tv/hbo.svg "HBO"
 [CH4]: https://wt365.github.io/lib/svg/tv/channel4.svg "Channel 4"
 [BBC]: https://wt365.github.io/lib/svg/tv/bbc.svg "BBC"
+<!-- Countries -->
+[AU]: https://wt365.github.io/lib/svg/flag/au.svg "Australia"
+[CA]: https://wt365.github.io/lib/svg/flag/ca.svg "Canada"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [ES]: https://wt365.github.io/lib/svg/flag/es.svg "Spain"
-[RU]: https://wt365.github.io/lib/svg/flag/ru.svg "Russia"
-[US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
-[UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
-[KR]: https://wt365.github.io/lib/svg/flag/kr.svg "Korea"
-[AU]: https://wt365.github.io/lib/svg/flag/au.svg "Australia"
-[JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
-[IT]: https://wt365.github.io/lib/svg/flag/it.svg "Italy"
-[HK]: https://wt365.github.io/lib/svg/flag/hk.svg "Hong Kong"
-[TW]: https://wt365.github.io/lib/svg/flag/tw.svg "Taiwan"
-[MX]: https://wt365.github.io/lib/svg/flag/mx.svg "Mexico"
-[IN]: https://wt365.github.io/lib/svg/flag/in.svg "India"
-[LB]: https://wt365.github.io/lib/svg/flag/lb.svg "Lebanon"
 [FR]: https://wt365.github.io/lib/svg/flag/fr.svg "France"
+[HK]: https://wt365.github.io/lib/svg/flag/hk.svg "Hong Kong"
+[IN]: https://wt365.github.io/lib/svg/flag/in.svg "India"
+[IT]: https://wt365.github.io/lib/svg/flag/it.svg "Italy"
+[JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
+[KR]: https://wt365.github.io/lib/svg/flag/kr.svg "Korea"
+[LB]: https://wt365.github.io/lib/svg/flag/lb.svg "Lebanon"
+[MX]: https://wt365.github.io/lib/svg/flag/mx.svg "Mexico"
 [NP]: https://wt365.github.io/lib/svg/flag/np.svg "Nepal"
 [PT]: https://wt365.github.io/lib/svg/flag/pt.svg "Portugal"
+[RU]: https://wt365.github.io/lib/svg/flag/ru.svg "Russia"
+[TW]: https://wt365.github.io/lib/svg/flag/tw.svg "Taiwan"
+[US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
+[UK]: https://wt365.github.io/lib/svg/flag/uk.svg "UK"
+<!-- 2nd Time-->
 [2nd]: https://wt365.github.io/lib/svg/2nd.svg "2nd Time Watching"
