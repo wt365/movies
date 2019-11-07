@@ -14,6 +14,7 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Nov 2019
+* **Weathering with You**《天気の子》![][JP] ![][s35]
 * **Mr. Nobody** ![][CA] ![][2nd] ![][NiT] ![][s4]
 
 ### Oct 2019 (3)
