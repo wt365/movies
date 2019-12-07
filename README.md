@@ -7,11 +7,15 @@
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
-2019: [Nov](#nov-2019-5) | [Oct](#oct-2019-3) | [Sept](#sept-2019-5) | [Aug](#aug-2019-12) | [July](#july-2019-2) | [June](#june-2019-3) | [May](#may-2019-2) | [April](#april-2019-2) | [March](#march-2019-5) | [Feb](#feb-2019-12) | [Jan](#jan-2019-6)
+2019: [Dec](#dec-2019) | [Nov](#nov-2019-5) | [Oct](#oct-2019-3) | [Sept](#sept-2019-5) | [Aug](#aug-2019-12) | [July](#july-2019-2) | [June](#june-2019-3) | [May](#may-2019-2) | [April](#april-2019-2) | [March](#march-2019-5) | [Feb](#feb-2019-12) | [Jan](#jan-2019-6)
 
 Previous Years: [2018](#2018-58)
 
 ## 2019
+
+### Dec 2019
+* **The Wistleblower**《吹哨人》![][CN] ![][s35]
+* **The Wild Goose Lake**《南方车站的聚会》![][CN] ![][s35]
 
 ### Nov 2019 (5)
 * **Wings Over Everest**《冰峰暴》![][CN] ![][s3]
