@@ -14,6 +14,8 @@ Previous Years: [2018](#2018-58)
 ## 2019
 
 ### Dec 2019
+* **Sheep Without a Shepherd**《误杀》![][CN] ![][s4]
+* **Gone with the Light**《背光抓走的人》![][CN] ![][s35]
 * **The Wistleblower**《吹哨人》![][CN] ![][s35]
 * **The Wild Goose Lake**《南方车站的聚会》![][CN] ![][s35]
 
