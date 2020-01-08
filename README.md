@@ -85,7 +85,7 @@ Previous Years: [2019](#2019-63) | [2018](#2018-58)
 * **Polar** ![][US] ![][NiT] ![][NFX] ![][s4]
 * **The New King of Comedy**《新喜剧之王》![][CN] ![][NiT] ![][s4]
 * **Integrity**《廉政風雲·煙幕》![][HK] ![][NiT] ![][s3]
-* **Gerry** (2002) ![][US] ![][s35]
+* **Gerry** (2002) ![][US] ![][NiT] ![][s35]
 * **Crazy Alien**《疯狂的外星人》![][CN] ![][NiT] ![][s3]
 * **Duckweed**《乘风破浪》(2017) ![][CN] ![][2nd] ![][NiT] ![][s4]
 * **Pegasus**《飞驰人生》![][CN] ![][s45]
