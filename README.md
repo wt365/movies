@@ -8,15 +8,16 @@
 
 ### Index
 
-2020: [Jan](#jan-2020-1) | [Feb](#feb-2020)
+2020: [Feb](#feb-2020) | [Jan](#jan-2020-1)
 
 Previous Years: [2019](#2019-63) | [2018](#2018-58)
 
 ## 2020
 
 ### Feb 2020
-* **Hotel Mumbai** (2018) ![][AU] ![][US] ![][IN] ![][s4]
-* **El Camino: A Breaking Bad Movie** (2019) ![][US] ![][s4]
+* **John Wick: Chapter 3 - Parabellum** (2019) ![][US] ![][NiT] ![][s3]
+* **Hotel Mumbai** (2018) ![][AU] ![][US] ![][IN] ![][NiT] ![][s4]
+* **El Camino: A Breaking Bad Movie** (2019) ![][US] ![][NiT] ![][s4]
 
 ### Jan 2020 (1)
 * **The Irishman** (2019) ![][US] ![][s45]
