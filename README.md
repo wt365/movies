@@ -15,6 +15,8 @@ Previous Years: [2019](#2019-63) | [2018](#2018-58)
 ## 2020
 
 ### Feb 2020
+* **Parasite**《기생충》(2019) ![][KR] ![][NiT] ![][s45]
+* **The Post** (2017) ![][US] ![][NiT] ![][s35]
 * **The Mountain**《Dağ》(2012) ![][TR] ![][NiT] ![][s35]
 * **The Mountain II**《Dağ II》(2016) ![][TR] ![][NiT] ![][s4]
 * **John Wick: Chapter 3 - Parabellum** (2019) ![][US] ![][NiT] ![][s3]
