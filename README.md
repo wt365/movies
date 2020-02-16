@@ -15,6 +15,7 @@ Previous Years: [2019](#2019-63) | [2018](#2018-58)
 ## 2020
 
 ### Feb 2020
+* **The Spy Gone North**《공작》(2018) ![][KR] ![][NiT] ![][s4]
 * **Parasite**《기생충》(2019) ![][KR] ![][NiT] ![][s45]
 * **The Post** (2017) ![][US] ![][NiT] ![][s35]
 * **The Mountain**《Dağ》(2012) ![][TR] ![][NiT] ![][s35]
