@@ -15,6 +15,7 @@ Previous Years: [2019](#2019-63) | [2018](#2018-58)
 ## 2020
 
 ### March 2020
+* **The People vs. Larry Flynt** (1996) ![][US] ![][NiT] ![][s4]
 * **Joker** (2019) ![][US] ![][CA] ![][NiT] ![][s4]
 * **Intouchables** (2011) ![][FR] ![][NiT] ![][s45]
 
