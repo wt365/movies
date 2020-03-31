@@ -8,13 +8,19 @@
 
 ### Index
 
-2020: [Mar](#march-2020) | [Feb](#feb-2020-10) | [Jan](#jan-2020-1)
+2020: [Mar](#march-2020-11) | [Feb](#feb-2020-10) | [Jan](#jan-2020-1)
 
 Previous Years: [2019](#2019-63) | [2018](#2018-58)
 
 ## 2020
 
-### March 2020
+### March 2020 (11)
+* **The Gentlemen** ![][US] ![][NiT] ![][s4]
+* **The Platform**《El Hoyo》![][ES] ![][NiT] ![][s4]
+* **Lost in Russia**《囧妈》![][CN] ![][NiT] ![][s3]
+* **How Long Will I Love U**《超时空同居》(2018) ![][CN] ![][NiT] ![][s35]
+* **My People, My Country**《我和我的祖国》(2019) ![][CN] ![][NiT] ![][s4]
+* **Ash Is Purest White**《江湖儿女》(2018) ![][CN] ![][NiT] ![][s35]
 * **Whatever Works** (2009) ![][US] ![][FR] ![][NiT] ![][s35]
 * **The Girl Who Leapt Through Time**《時をかける少女》(2006) ![][JP] ![][NiT] ![][s4]
 * **The People vs. Larry Flynt** (1996) ![][US] ![][NiT] ![][s4]
