@@ -8,11 +8,15 @@
 
 ### Index
 
-2020: [Mar](#march-2020-11) | [Feb](#feb-2020-10) | [Jan](#jan-2020-1)
+2020: [April](#april-2020) | [Mar](#march-2020-11) | [Feb](#feb-2020-10) | [Jan](#jan-2020-1)
 
 Previous Years: [2019](#2019-63) | [2018](#2018-58)
 
 ## 2020
+
+### April 2020
+* **Never Rarely Sometimes Always** ![][US] ![][NiT] ![][s4]
+* **John Rabe** ![][FR] ![][CN] ![][DE] ![][NiT] ![][s4]
 
 ### March 2020 (11)
 * **The Gentlemen** ![][US] ![][NiT] ![][s4]
@@ -239,6 +243,7 @@ Previous Years: [2019](#2019-63) | [2018](#2018-58)
 [AU]: https://wt365.github.io/lib/svg/flag/au.svg "Australia"
 [CA]: https://wt365.github.io/lib/svg/flag/ca.svg "Canada"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
+[DE]: https://wt365.github.io/lib/svg/flag/de.svg "Germany"
 [ES]: https://wt365.github.io/lib/svg/flag/es.svg "Spain"
 [FR]: https://wt365.github.io/lib/svg/flag/fr.svg "France"
 [HK]: https://wt365.github.io/lib/svg/flag/hk.svg "Hong Kong"
