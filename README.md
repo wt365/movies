@@ -15,6 +15,9 @@ Previous Years: [2019](#2019-63) | [2018](#2018-58)
 ## 2020
 
 ### April 2020
+* **6 Underground** ![][US] ![][NiT] ![][s4]
+* **The Hunt** ![][US] ![][NiT] ![][s3]
+* **Happy Old Year**《ฮาวทูทิ้ง》(2019) ![][TH] ![][NiT] ![][s4]
 * **Never Rarely Sometimes Always** ![][US] ![][NiT] ![][s4]
 * **John Rabe** ![][FR] ![][CN] ![][DE] ![][NiT] ![][s4]
 
@@ -256,6 +259,7 @@ Previous Years: [2019](#2019-63) | [2018](#2018-58)
 [NP]: https://wt365.github.io/lib/svg/flag/np.svg "Nepal"
 [PT]: https://wt365.github.io/lib/svg/flag/pt.svg "Portugal"
 [RU]: https://wt365.github.io/lib/svg/flag/ru.svg "Russia"
+[TH]: https://wt365.github.io/lib/svg/flag/th.svg "Thailand"
 [TR]: https://wt365.github.io/lib/svg/flag/tr.svg "Turkey"
 [TW]: https://wt365.github.io/lib/svg/flag/tw.svg "Taiwan"
 [US]: https://wt365.github.io/lib/svg/flag/us.svg "USA"
