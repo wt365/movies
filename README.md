@@ -15,7 +15,9 @@ Previous Years: [2019](#2019-63) | [2018](#2018-58)
 ## 2020
 
 ### April 2020
-* **6 Underground** ![][US] ![][NiT] ![][s4]
+* **Time to Hunt** ![][KR] ![][NiT] ![][NFX] ![][s3]
+* **Extraction** ![][US] ![][NiT] ![][NFX] ![][s35]
+* **6 Underground** ![][US] ![][NiT] ![][NFX] ![][s4]
 * **The Hunt** ![][US] ![][NiT] ![][s3]
 * **Happy Old Year**《ฮาวทูทิ้ง》(2019) ![][TH] ![][NiT] ![][s4]
 * **Never Rarely Sometimes Always** ![][US] ![][NiT] ![][s4]
