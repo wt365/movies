@@ -15,6 +15,7 @@ Previous Years: [2019](#2019-63) | [2018](#2018-58)
 ## 2020
 
 ### Aug 2020
+* **The Eight Hundred**《八佰》![][CN] ![][s4]
 * **One Cut of the Dead**《カメラを止めるな！》(2017) ![][JP] ![][NiT] ![][s4]
 * **Non Fiction**《Doubles Vies》(2018) ![][FR] ![][NiT] ![][s35]
 * **K2: The Impossible Descent** ![][AT] ![][NiT] ![][s5]
