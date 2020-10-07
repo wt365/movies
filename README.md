@@ -8,11 +8,14 @@
 
 ### Index
 
-2020: [Sept](#sept-2020-3) | [Aug](#aug-2020-6) | [July](#july-2020-2) | [June](#june-2020-2) | [May](#may-2020-1) | [April](#april-2020-7) | [Mar](#march-2020-11) | [Feb](#feb-2020-10) | [Jan](#jan-2020-1)
+2020: [Oct](#oct-2020) | [Sept](#sept-2020-3) | [Aug](#aug-2020-6) | [July](#july-2020-2) | [June](#june-2020-2) | [May](#may-2020-1) | [April](#april-2020-7) | [Mar](#march-2020-11) | [Feb](#feb-2020-10) | [Jan](#jan-2020-1)
 
 Previous Years: [2019](#2019-63) | [2018](#2018-58)
 
 ## 2020
+
+### Oct 2020
+* **Legend of Deification**《姜子牙》![][CN] ![][s4]
 
 ### Sept 2020 (3)
 * **Lock, Stock, and Two Smoking Barrels** (1998) ![][UK] ![][NiT] ![][s45]
