@@ -15,6 +15,7 @@ Previous Years: [2019](#2019-63) | [2018](#2018-58)
 ## 2020
 
 ### Oct 2020
+* **My Himalayas**《我的喜马拉雅》(2019) ![][CN] ![][NiT] ![][s4]
 * **My People, My Homeland**《我和我的家乡》![][CN] ![][s35]
 * **Legend of Deification**《姜子牙》![][CN] ![][s4]
 
