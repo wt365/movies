@@ -8,9 +8,19 @@
 
 ### Index
 
-2020: [Dec](#dec-2020-4) | [Nov](#nov-2020-3) | [Oct](#oct-2020-3) | [Sept](#sept-2020-3) | [Aug](#aug-2020-6) | [July](#july-2020-2) | [June](#june-2020-2) | [May](#may-2020-1) | [April](#april-2020-7) | [Mar](#march-2020-11) | [Feb](#feb-2020-10) | [Jan](#jan-2020-1)
+2021: [Jan](#jan-2021)
 
-Previous Years: [2019](#2019-63) | [2018](#2018-58)
+Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
+
+## 2021
+
+### Jan 2021
+* **The Soul**《缉魂》![][CN] ![][TW] ![][s35]
+* **Balloon**《气球》(2019) ![][CN] ![][NiT] ![][s4]
+* **Flags of Our Fathers** ![][US] ![][NiT] ![][s4]
+* **Moneyball** (2011) ![][US] ![][NiT] ![][s4]
+* **A Little Red Flower**《送你一朵小红花》(2020) ![][CN] ![][s4]
+* **Ala Changso**《阿拉姜色》(2018) ![][CN] ![][NiT] ![][s4]
 
 ## 2020 (53)
 
