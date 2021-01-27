@@ -15,6 +15,9 @@ Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 ## 2021
 
 ### Jan 2021
+* **Nomadland** (2020) ![][US] ![][NiT] ![][s45]
+* **The Machinist** (2014) ![][ES] ![][FR] ![][UK] ![][US] ![][NiT] ![][s35]
+* **Black Mirror: White Christmas** (2014) ![][US] ![][NiT] ![][s45]
 * **The Soul**《缉魂》![][CN] ![][TW] ![][s35]
 * **Balloon**《气球》(2019) ![][CN] ![][NiT] ![][s4]
 * **Flags of Our Fathers** ![][US] ![][NiT] ![][s4]
