@@ -8,13 +8,17 @@
 
 ### Index
 
-2021: [Jan](#jan-2021)
+2021: [Feb](#feb-2021) | [Jan](#jan-2021-9)
 
 Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2021
 
-### Jan 2021
+### Feb 2021
+* **Hi, Mom**《你好，李焕英》![][CN] ![][NiT] ![][s35]
+* **Detective Chinatown** 3《唐人街探案3》![][CN] ![][JP] ![][NiT] ![][s25]
+
+### Jan 2021 (9)
 * **Nomadland** (2020) ![][US] ![][NiT] ![][s45]
 * **The Machinist** (2014) ![][ES] ![][FR] ![][UK] ![][US] ![][NiT] ![][s35]
 * **Black Mirror: White Christmas** (2014) ![][US] ![][NiT] ![][s45]
