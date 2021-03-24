@@ -16,7 +16,7 @@ Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ### March 2021
 * **T-34** (2019) ![][RU] ![][s4]
-* **Persian Lessons**《Persischstunden》(2020) ![][RU] ![][DE] 🇧🇾 ![][s45]
+* **Persian Lessons**《Persischstunden》(2020) ![][RU] ![][DE] ![][BY] ![][s45]
 
 ### Feb 2021 (2)
 * **Hi, Mom**《你好，李焕英》![][CN] ![][NiT] ![][s35]
@@ -308,6 +308,7 @@ Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 <!-- Countries -->
 [AU]: https://wt365.github.io/lib/svg/flag/au.svg "Australia"
 [AT]: https://wt365.github.io/lib/svg/flag/at.svg "Austria"
+[BY]: https://wt365.github.io/lib/svg/flag/by.svg "Belarus"
 [CA]: https://wt365.github.io/lib/svg/flag/ca.svg "Canada"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [DE]: https://wt365.github.io/lib/svg/flag/de.svg "Germany"
