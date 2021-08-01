@@ -8,11 +8,21 @@
 
 ### Index
 
-2021: [May](#may-2021-4) | [March](#march-2021-2) | [Feb](#feb-2021-2) | [Jan](#jan-2021-9)
+2021: [Aug](#aug-2021) | [July](#july-2021-2) | [June](#june-2021-1) | [May](#may-2021-4) | [March](#march-2021-2) | [Feb](#feb-2021-2) | [Jan](#jan-2021-9)
 
 Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2021
+
+### Aug 2021
+* **Raging Fire**《怒火·重案》![][HK] ![][CN] ![][s3]
+
+### July 2021 (2)
+* **Upcoming Summer**《盛夏未来》![][CN] ![][s35]
+* **Chinese Doctors**《中国医生》![][CN] ![][s35]
+
+### June 2021 (1)
+* **Man in Love**《當男人戀愛時》![][TW] ![][HK] ![][s3]
 
 ### May 2021 (4)
 * **Autobahn** ![][UK] ![][DE] ![][CN] ![][US] ![][NiT] ![][s3]
