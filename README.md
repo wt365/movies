@@ -14,6 +14,7 @@ Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2021
 ### Oct 2021
+* **The Kite Runner** (2007) ![][US] ![][CN] ![][UK] ![][AF04]
 * **The Battle at Lake Changjin**《长津湖》![][CN] ![][HK] ![][s4]
 
 ### Sept 2021 (1)
@@ -328,6 +329,7 @@ Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 [CH4]: https://wt365.github.io/lib/svg/tv/channel4.svg "Channel 4"
 [BBC]: https://wt365.github.io/lib/svg/tv/bbc.svg "BBC"
 <!-- Countries -->
+[AF04]: https://wt365.github.io/lib/svg/flag/af04.svg "Afghanistan"
 [AU]: https://wt365.github.io/lib/svg/flag/au.svg "Australia"
 [AT]: https://wt365.github.io/lib/svg/flag/at.svg "Austria"
 [BY]: https://wt365.github.io/lib/svg/flag/by.svg "Belarus"
