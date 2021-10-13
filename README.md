@@ -14,7 +14,7 @@ Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2021
 ### Oct 2021
-* **The Kite Runner** (2007) ![][US] ![][CN] ![][UK] ![][AF04]
+* **The Kite Runner** (2007) ![][US] ![][CN] ![][UK] ![][AF04] ![][s4]
 * **The Battle at Lake Changjin**《长津湖》![][CN] ![][HK] ![][s4]
 
 ### Sept 2021 (1)
