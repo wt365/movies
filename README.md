@@ -15,6 +15,9 @@ Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 ## 2021
 
 ### Oct 2021
+* **The Six**《六人-泰坦尼克上的中国幸存者》(2020) ![][CN] ![][NiT] ![][s35]
+* **Ford v Ferrari** (2019) ![][US] ![][NiT] ![][s45]
+* **McFarland, USA** (2015) ![][US] ![][NiT] ![][s45]
 * **Saturday Fiction**《兰心大剧院》![][CN] ![][s45]
 * **The Kite Runner** (2007) ![][US] ![][CN] ![][UK] ![][AF04] ![][NiT] ![][s4]
 * **The Battle at Lake Changjin**《长津湖》![][CN] ![][HK] ![][s4]
