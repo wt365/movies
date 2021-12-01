@@ -14,9 +14,12 @@ Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2021
 
+### Dec 2021
+* **The Matrix Revolutions** (2003) ![][US] ![][NiT] ![][s4]
+
 ### Nov 2021 (4)
-* **The Matrix Reloaded** ![][US] ![][NiT] ![][s4]
-* **The Matrix** ![][US] ![][NiT] ![][s45]
+* **The Matrix Reloaded** (2003) ![][US] ![][NiT] ![][s4]
+* **The Matrix** (1999) ![][US] ![][NiT] ![][s45]
 * **Striding into the Wind**《野马分鬃》![][CN] ![][s4]
 * **Be Somebody**《扬名立万》![][CN] ![][s45]
 
