@@ -15,6 +15,10 @@ Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 ## 2021
 
 ### Dec 2021
+* **Don't Look Up** ![][US] ![][NiT] ![][s45]
+* **The Matrix Resurrections** ![][US] ![][NiT] ![][s3]
+* **I Am What I Am**《雄狮少年》![][CN] ![][s4]
+* **Fireflies in the Sun**《误杀2》![][CN] ![][s35]
 * **To the Summit**《无尽攀登》![][CN] ![][s45]
 * **The Matrix Revolutions** (2003) ![][US] ![][NiT] ![][s4]
 
