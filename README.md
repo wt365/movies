@@ -8,13 +8,14 @@
 
 ### Index
 
-2021: [Nov](#nov-2021-4) | [Oct](#oct-2021-12) | [Sept](#sept-2021-1) | [Aug](#aug-2021-2) | [July](#july-2021-2) | [June](#june-2021-1) | [May](#may-2021-4) | [March](#march-2021-2) | [Feb](#feb-2021-2) | [Jan](#jan-2021-9)
+2021: [Dec](#dec-2021-7) | [Nov](#nov-2021-4) | [Oct](#oct-2021-12) | [Sept](#sept-2021-1) | [Aug](#aug-2021-2) | [July](#july-2021-2) | [June](#june-2021-1) | [May](#may-2021-4) | [March](#march-2021-2) | [Feb](#feb-2021-2) | [Jan](#jan-2021-9)
 
 Previous Years: [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
-## 2021
+## 2021 (46)
 
-### Dec 2021
+### Dec 2021 (7)
+* **Finch** ![][US] ![][NiT] ![][s45]
 * **Don't Look Up** ![][US] ![][NiT] ![][s45]
 * **The Matrix Resurrections** ![][US] ![][NiT] ![][s3]
 * **I Am What I Am**《雄狮少年》![][CN] ![][s4]
