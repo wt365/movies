@@ -15,7 +15,8 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 ## 2022
 
 ### Jan 2022
-* **P Storm**《P風暴》(2019) ![][NiT] ![][s3]
+* **The Rescue** (2021) ![][US] ![][NiT] ![][s45]
+* **P Storm**《P風暴》(2019) ![][HK] ![][CN] ![][NiT] ![][s3]
 * **14 Peaks: Nothing Is Impossible** (2021) ![][NiT] ![][s45]
 * **The Alpinist** (2020) ![][US] ![][NiT] ![][s5]
 * **Myth of Love**《爱情神话》(2021) ![][CN] ![][s4]
