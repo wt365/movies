@@ -8,13 +8,18 @@
 
 ### Index
 
-2022: [Jan](#jan-2022)
+2022: [Feb](#feb-2022) | [Jan](#jan-2022-7)
 
 Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2022
 
-### Jan 2022
+### Feb 2022
+* **Only Fools Rush In**《四海》![][CN] ![][s35]
+
+### Jan 2022 (7)
+* **Schemes In Antiques**《古董局中局》(2021) ![][CN] ![][NiT] ![][s3]
+* **Long Day's Journey Into Night**《地球最后的夜晚》(2018) ![][CN] ![][NiT] ![][s35]
 * **The Rescue** (2021) ![][US] ![][NiT] ![][s45]
 * **P Storm**《P風暴》(2019) ![][HK] ![][CN] ![][NiT] ![][s3]
 * **14 Peaks: Nothing Is Impossible** (2021) ![][NiT] ![][s45]
