@@ -8,13 +8,17 @@
 
 ### Index
 
-2022: [Feb](#feb-2022) | [Jan](#jan-2022-7)
+2022: [March](#march-2022) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
 
 Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2022
 
-### Feb 2022
+### March 2022
+* **The Blackout**《Аванпост》![][RU] ![][NiT] ![][s3]
+
+### Feb 2022 (3)
+* **We Made a Beautiful Bouquet**《花束みたいな恋をした》![][JP] ![][s45]
 * **Drive My Car**《ドライブ・マイ・カー》![][JP] ![][NiT] ![][s4]
 * **Only Fools Rush In**《四海》![][CN] ![][s35]
 
