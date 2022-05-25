@@ -15,6 +15,7 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 ## 2022
 
 ### May 2022
+* **Chasing the Dragon**《追龍》(2017) ![][HK] ![][CN] ![][NiT] ![][s35]
 * **The White Storm**《掃毒》(2013) ![][CN] ![][HK] ![][NiT] ![][s35]
 * **Protégé**《門徒》(2007) ![][HK] ![][NiT] ![][s4]
 * **Everything Everywhere All at Once** ![][US] ![][NiT] ![][s4]
