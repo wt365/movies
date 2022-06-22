@@ -15,8 +15,8 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 ## 2022
 
 ### June 2022
-* **The Unbearable Weight of Massive Talent** ![][US] ![][NiT] ![][s3]
-* **Swan Song** (2021) ![][US] ![][NiT] ![][s4]
+* **The Unbearable Weight of Massive Talent** ![][US] ![][Pjt] ![][s3]
+* **Swan Song** (2021) ![][US] ![][Pjt] ![][s4]
 * **Searching** (2018) ![][US] ![][RU] ![][NiT] ![][s4]
 
 ### May 2022 (9)
@@ -390,7 +390,8 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 [s4]: https://wt365.github.io/lib/svg/star/s4.svg "4 Stars"
 [s45]: https://wt365.github.io/lib/svg/star/s45.svg "4.5 Stars"
 [s5]: https://wt365.github.io/lib/svg/star/s5.svg "5 Stars"
-<!-- Not in Theater -->
+<!-- Projector / Not in Theater -->
+[Pjt]: https://wt365.github.io/lib/svg/projector.svg "via Projector"
 [NiT]: https://wt365.github.io/lib/svg/nit.svg "Not Seen in Theater"
 <!-- Network -->
 [NFX]: https://wt365.github.io/lib/svg/tv/netflix.svg "Netflix"
