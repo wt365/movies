@@ -2,19 +2,20 @@
 
 ![][star] - marks my rating.  
 ![][NiT] - not seen in theater.
+![][Pjt] - seen via a projector.
 
 ![][loff]  
 *"Closing credits are also part of a film. Please keep lights off."*
 
 ### Index
 
-2022: [June](#june-2022) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
+2022: [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
 
 Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2022
 
-### June 2022
+### June 2022 (3)
 * **The Unbearable Weight of Massive Talent** ![][US] ![][Pjt] ![][s3]
 * **Swan Song** (2021) ![][US] ![][Pjt] ![][s4]
 * **Searching** (2018) ![][US] ![][RU] ![][NiT] ![][s4]
