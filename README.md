@@ -9,11 +9,15 @@
 
 ### Index
 
-2022: [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
+2022: [July](#july-2022) | [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
 
 Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2022
+
+### July 2022
+* **Heidi** (2015) ![][DE] ![][CH] ![][Pjt] ![][s5]
+* **Captain Qomolangma**《珠峰队长》![][CN] ![][s4]
 
 ### June 2022 (3)
 * **The Unbearable Weight of Massive Talent** ![][US] ![][Pjt] ![][s3]
@@ -405,6 +409,7 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 [AT]: https://wt365.github.io/lib/svg/flag/at.svg "Austria"
 [BY]: https://wt365.github.io/lib/svg/flag/by.svg "Belarus"
 [CA]: https://wt365.github.io/lib/svg/flag/ca.svg "Canada"
+[CH]: https://wt365.github.io/lib/svg/flag/ch.svg "Switzerland"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [DE]: https://wt365.github.io/lib/svg/flag/de.svg "Germany"
 [ES]: https://wt365.github.io/lib/svg/flag/es.svg "Spain"
