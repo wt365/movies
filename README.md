@@ -9,13 +9,17 @@
 
 ### Index
 
-2022: [July](#july-2022) | [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
+2022: [Aug](#aug-2022) | [July](#july-2022) | [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
 
 Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2022
 
-### July 2022
+### Aug 2022
+* **Moon Man**《独行月球》![][CN] ![][s35]
+
+### July 2022 (3)
+* **The Gray Man** ![][US] ![][Pjt] ![][s3]
 * **Heidi** (2015) ![][DE] ![][CH] ![][Pjt] ![][s5]
 * **Captain Qomolangma**《珠峰队长》![][CN] ![][s4]
 
