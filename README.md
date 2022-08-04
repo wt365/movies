@@ -19,7 +19,7 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 * **Moon Man**《独行月球》![][CN] ![][s35]
 
 ### July 2022 (3)
-* **The Gray Man** ![][US] ![][Pjt] ![][s3]
+* **The Gray Man** ![][US] ![][CZ] ![][Pjt] ![][s3]
 * **Heidi** (2015) ![][DE] ![][CH] ![][Pjt] ![][s5]
 * **Captain Qomolangma**《珠峰队长》![][CN] ![][s4]
 
@@ -415,6 +415,7 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 [CA]: https://wt365.github.io/lib/svg/flag/ca.svg "Canada"
 [CH]: https://wt365.github.io/lib/svg/flag/ch.svg "Switzerland"
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
+[CZ]: https://wt365.github.io/lib/svg/flag/cz.svg "Czech"
 [DE]: https://wt365.github.io/lib/svg/flag/de.svg "Germany"
 [ES]: https://wt365.github.io/lib/svg/flag/es.svg "Spain"
 [FR]: https://wt365.github.io/lib/svg/flag/fr.svg "France"
