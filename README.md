@@ -16,6 +16,8 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 ## 2022
 
 ### Aug 2022
+* **Top Gun: Maverick** (2022) ![][US] ![][CN] ![][Pjt] ![][s4]
+* **Minions: The Rise of Gru** (2022) ![][US] ![][Pjt] ![][s4]
 * **Before Next Spring**《如果有一天我将会离开你》(2021) ![][CN] ![][Pjt] ![][s4]
 * **The Life of David Gale** (2003) ![][US] ![][DE] ![][UK] ![][ES] ![][Pjt] ![][s45]
 * **21 Grams** (2003) ![][US] ![][Pjt] ![][s4]
