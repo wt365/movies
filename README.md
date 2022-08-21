@@ -16,6 +16,7 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 ## 2022
 
 ### Aug 2022
+* **Como Agua para Chocolate** (1992) ![][MX] ![][Pjt] ![][s4]
 * **10 Cloverfield Lane** (2016) ![][US] ![][Pjt] ![][s35]
 * **Top Gun: Maverick** ![][US] ![][CN] ![][Pjt] ![][s4]
 * **Minions: The Rise of Gru** (2022) ![][US] ![][Pjt] ![][s4]
