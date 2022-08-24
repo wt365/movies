@@ -16,10 +16,13 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 ## 2022
 
 ### Aug 2022
+* **The Lobster** (2015) ![][IE] ![][UK] ![][GR] ![][FR] ![][NL] ![][Pjt] ![][s45]
+* **My Rainy Days**《天使の恋》(2009) ![][JP] ![][Pjt] ![][s35]
+* **The Pianist** (2002) ![][UK] ![][FR] ![][PL] ![][DE] ![][Pjt] ![][s45]
 * **Como Agua para Chocolate** (1992) ![][MX] ![][Pjt] ![][s4]
 * **10 Cloverfield Lane** (2016) ![][US] ![][Pjt] ![][s35]
 * **Top Gun: Maverick** ![][US] ![][CN] ![][Pjt] ![][s4]
-* **Minions: The Rise of Gru** (2022) ![][US] ![][Pjt] ![][s4]
+* **Minions: The Rise of Gru** ![][US] ![][Pjt] ![][s4]
 * **Before Next Spring**《如果有一天我将会离开你》(2021) ![][CN] ![][Pjt] ![][s4]
 * **The Life of David Gale** (2003) ![][US] ![][DE] ![][UK] ![][ES] ![][Pjt] ![][s45]
 * **21 Grams** (2003) ![][US] ![][Pjt] ![][s4]
@@ -429,7 +432,9 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 [DE]: https://wt365.github.io/lib/svg/flag/de.svg "Germany"
 [ES]: https://wt365.github.io/lib/svg/flag/es.svg "Spain"
 [FR]: https://wt365.github.io/lib/svg/flag/fr.svg "France"
+[GR]: https://wt365.github.io/lib/svg/flag/gr.svg "Greece"
 [HK]: https://wt365.github.io/lib/svg/flag/hk.svg "Hong Kong"
+[IE]: https://wt365.github.io/lib/svg/flag/ie.svg "Ireland"
 [IN]: https://wt365.github.io/lib/svg/flag/in.svg "India"
 [IT]: https://wt365.github.io/lib/svg/flag/it.svg "Italy"
 [JP]: https://wt365.github.io/lib/svg/flag/jp.svg "Japan"
@@ -437,6 +442,8 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 [LB]: https://wt365.github.io/lib/svg/flag/lb.svg "Lebanon"
 [MX]: https://wt365.github.io/lib/svg/flag/mx.svg "Mexico"
 [NP]: https://wt365.github.io/lib/svg/flag/np.svg "Nepal"
+[NL]: https://wt365.github.io/lib/svg/flag/nl.svg "The Netherlands"
+[PL]: https://wt365.github.io/lib/svg/flag/pl.svg "Poland"
 [PT]: https://wt365.github.io/lib/svg/flag/pt.svg "Portugal"
 [RU]: https://wt365.github.io/lib/svg/flag/ru.svg "Russia"
 [TH]: https://wt365.github.io/lib/svg/flag/th.svg "Thailand"
