@@ -9,13 +9,13 @@
 
 ### Index
 
-2022: [Aug](#aug-2022) | [July](#july-2022-3) | [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
+2022: [Aug](#aug-2022-15) | [July](#july-2022-3) | [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
 
 Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2022
 
-### Aug 2022
+### Aug 2022 (15)
 * **The Ark**《方舟》(2020) ![][CN] ![][Pjt] ![][s3]
 * **The Lobster** (2015) ![][IE] ![][UK] ![][GR] ![][FR] ![][NL] ![][Pjt] ![][s45]
 * **My Rainy Days**《天使の恋》(2009) ![][JP] ![][Pjt] ![][s35]
