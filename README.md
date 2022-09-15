@@ -16,7 +16,10 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 ## 2022
 
 ### Sept 2022
-* **Nope** (2022) ![][US] ![][JP] ![][CA] ![][Pjt] ![][s35]
+* **The Passengers of the Night**《Les Passagers de la Nuit》![][FR] ![][Pjt] ![][s4]
+* **Get Out** (2017) ![][US] ![][Pjt] ![][s4]
+* **Fall** ![][UK] ![][US] ![][Pjt] ![][s4]
+* **Nope** ![][US] ![][JP] ![][CA] ![][Pjt] ![][s35]
 
 ### Aug 2022 (15)
 * **The Ark**《方舟》(2020) ![][CN] ![][Pjt] ![][s3]
