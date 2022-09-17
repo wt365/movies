@@ -16,6 +16,8 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 ## 2022
 
 ### Sept 2022
+* **Running Out of Time 2**《暗戰2》(2001) ![][HK] ![][Pjt] ![][s3]
+* **Running Out of Time**《暗戰》(1999) ![][HK] ![][NiT] ![][s4]
 * **The Passengers of the Night**《Les Passagers de la Nuit》![][FR] ![][Pjt] ![][s4]
 * **Get Out** (2017) ![][US] ![][Pjt] ![][s4]
 * **Fall** ![][UK] ![][US] ![][Pjt] ![][s4]
