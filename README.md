@@ -9,11 +9,15 @@
 
 ### Index
 
-2022: [Sept](#sept-2022-8) | [Aug](#aug-2022-15) | [July](#july-2022-3) | [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
+2022: [Oct](#oct-2022) | [Sept](#sept-2022-8) | [Aug](#aug-2022-15) | [July](#july-2022-3) | [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
 
 Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2022
+
+### Oct 2022
+* **Hunt**《헌트》(2022) ![][KR] ![][Pjt] ![][s4]
+* **Bullet Train (2022)** ![][US] ![][JP] ![][NiT] ![][s4]
 
 ### Sept 2022 (8)
 * **Peppermint Candy**《박하사탕》(1999) ![][KR] ![][JP] ![][Pjt] ![][s4]
