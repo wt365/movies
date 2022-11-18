@@ -16,6 +16,13 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 ## 2022
 
 ### Nov 2022
+* **The Attorney**《변호인》(2013) ![][KR] ![][Pjt] ![][s45]
+* **6/45**《육사오》![][KR] ![][Pjt] ![][s4]
+* **Hand Rolled Cigarette**《手捲煙》(2020) ![][HK] ![][Pjt] ![][s35]
+* **Election 2**《黑社會以和為貴》(2006) ![][HK] ![][Pjt] ![][s4]
+* **Election**《黑社會》(2005) ![][HK] ![][Pjt] ![][s35]
+* **The Tipping Point**《扫黑行动》![][CN] ![][s3]
+* **Prison on Fire II**《監獄風雲II逃犯》(1991) ![][HK] ![][Pjt] ![][s35]
 * **Prison on Fire**《監獄風雲》(1987) ![][HK] ![][Pjt] ![][s4]
 * **All Quiet on the Western Front**《Im Westen Nichts Neues》![][DE] ![][US] ![][Pjt] ![][s4]
 
