@@ -16,6 +16,10 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 ## 2022
 
 ### Dec 2022
+* **Citizen Kane** (1941) ![][US] ![][Pjt] ![][s4]
+* **Vitus** (2006) ![][CH] ![][Pjt] ![][s45]
+* **Cold Mountain** (2003) ![][UK] ![][IT] ![][RO] ![][US] ![][Pjt] ![][s4]
+* **Solanin**《ソラニン》(2010) ![][JP] ![][Pjt] ![][s35]
 * **Sleepers** (1996) ![][US] ![][Pjt] ![][s4]
 * **Mank** (2020) ![][US] ![][Pjt] ![][s35]
 * **Moss**《이끼》(2010) ![][KR] ![][s35]
@@ -489,6 +493,7 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 [NL]: https://wt365.github.io/lib/svg/flag/nl.svg "The Netherlands"
 [PL]: https://wt365.github.io/lib/svg/flag/pl.svg "Poland"
 [PT]: https://wt365.github.io/lib/svg/flag/pt.svg "Portugal"
+[RO]: https://wt365.github.io/lib/svg/flag/ro.svg "Romania"
 [RU]: https://wt365.github.io/lib/svg/flag/ru.svg "Russia"
 [TH]: https://wt365.github.io/lib/svg/flag/th.svg "Thailand"
 [TR]: https://wt365.github.io/lib/svg/flag/tr.svg "Turkey"
