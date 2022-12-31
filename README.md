@@ -9,13 +9,13 @@
 
 ### Index
 
-2022: [Dec](#dec-2022) | [Nov](#nov-2022-11) | [Oct](#oct-2022-6) | [Sept](#sept-2022-8) | [Aug](#aug-2022-15) | [July](#july-2022-3) | [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
+2022: [Dec](#dec-2022-16) | [Nov](#nov-2022-11) | [Oct](#oct-2022-6) | [Sept](#sept-2022-8) | [Aug](#aug-2022-15) | [July](#july-2022-3) | [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
 
 Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
-## 2022
+## 2022 (88)
 
-### Dec 2022
+### Dec 2022 (16)
 * **The Wildest Dream** (2010) ![][US] ![][Pjt] ![][s45]
 * **Fire of Love** ![][CA] ![][Pjt] ![][s4]
 * **Citizen Kane** (1941) ![][US] ![][Pjt] ![][s4]
@@ -123,8 +123,8 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 * **Long Day's Journey Into Night**《地球最后的夜晚》(2018) ![][CN] ![][NiT] ![][s35]
 * **The Rescue** (2021) ![][US] ![][NiT] ![][s45]
 * **P Storm**《P風暴》(2019) ![][HK] ![][CN] ![][NiT] ![][s3]
-* **14 Peaks: Nothing Is Impossible** (2021) ![][NiT] ![][s45]
-* **The Alpinist** (2020) ![][US] ![][NiT] ![][s5]
+* **14 Peaks: Nothing Is Impossible** (2021) ![][NiT] ![][US] ![][s45]
+* **The Alpinist** (2021) ![][US] ![][NiT] ![][s5]
 * **Myth of Love**《爱情神话》(2021) ![][CN] ![][s4]
 
 ## 2021 (46)
