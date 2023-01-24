@@ -9,9 +9,20 @@
 
 ### Index
 
-2022: [Dec](#dec-2022-16) | [Nov](#nov-2022-11) | [Oct](#oct-2022-6) | [Sept](#sept-2022-8) | [Aug](#aug-2022-15) | [July](#july-2022-3) | [June](#june-2022-3) | [May](#may-2022-9) | [April](#april-2022-4) | [March](#march-2022-3) | [Feb](#feb-2022-3) | [Jan](#jan-2022-7)
+2023: [Jan](#jan-2023)
 
-Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
+Previous Years: [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
+
+## 2023
+
+### Jan 2023
+* **Full River Red**《满江红》![][CN] ![][s4]
+* **The Wandering Earth II**《流浪地球2》![][CN] ![][s4]
+* **My Girlfriend's Boyfriend**《L'ami de Mon Amie》(1987) ![][FR] ![][Pjt] ![][s35]
+* **April Story**《四月物語》(1998) ![][JP] ![][Pjt] ![][s45]
+* **Twelve Nights**《12夜》(2000) ![][HK] ![][Pjt] ![][s4]
+* **In Search of Lost Time**《海的尽头是草原》(2022) ![][CN] ![][Pjt] ![][s35]
+* **Triangle of Sadness** (2022) ![][SE] ![][FR] ![][UK] ![][DE] ![][TR] ![][GR] ![][US] ![][DK] ![][CH] ![][MX] ![][Pjt] ![][s4]
 
 ## 2022 (88)
 
@@ -480,6 +491,7 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 [CN]: https://wt365.github.io/lib/svg/flag/cn.svg "China"
 [CZ]: https://wt365.github.io/lib/svg/flag/cz.svg "Czech"
 [DE]: https://wt365.github.io/lib/svg/flag/de.svg "Germany"
+[DK]: https://wt365.github.io/lib/svg/flag/dk.svg "Denmark"
 [ES]: https://wt365.github.io/lib/svg/flag/es.svg "Spain"
 [FR]: https://wt365.github.io/lib/svg/flag/fr.svg "France"
 [GR]: https://wt365.github.io/lib/svg/flag/gr.svg "Greece"
@@ -497,6 +509,7 @@ Previous Years: [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](
 [PT]: https://wt365.github.io/lib/svg/flag/pt.svg "Portugal"
 [RO]: https://wt365.github.io/lib/svg/flag/ro.svg "Romania"
 [RU]: https://wt365.github.io/lib/svg/flag/ru.svg "Russia"
+[SE]: https://wt365.github.io/lib/svg/flag/se.svg "Sweden"
 [TH]: https://wt365.github.io/lib/svg/flag/th.svg "Thailand"
 [TR]: https://wt365.github.io/lib/svg/flag/tr.svg "Turkey"
 [TW]: https://wt365.github.io/lib/svg/flag/tw.svg "Taiwan"
