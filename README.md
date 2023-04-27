@@ -9,15 +9,23 @@
 
 ### Index
 
-2023: [March](#march-2023) | [Feb](#feb-2023-4) | [Jan](#jan-2023-10)
+2023: [Apr](#april-2023) | [March](#march-2023) | [Feb](#feb-2023-4) | [Jan](#jan-2023-10)
 
 Previous Years: [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2023
 
 ### Apr 2023
+* **The Time to Live and the Time to Die**《童年往事》(1985) ![][TW] ![][NiT] ![][s45]
+* **The Trial of the Chicago 7** (2020) ![][US] ![][NiT] ![][s5]
+* **The Handmaiden**《아가씨》(2016) ![][KR] ![][NiT] ![][s45]
+* **The Way Back** (2010) ![][US] ![][NiT] ![][s4]
+* **The Fighter** (2010) ![][US] ![][NiT] ![][s4]
+* **Let the Right One In**《Låt Den Rätte Komma In》(2008) ![][SE] ![][NiT] ![][s3]
+* **Avatar: The Way of Water** (2022) ![][US] ![][NiT] ![][s35]
+* **The First Slam Dunk** (2022) ![][JP] ![][s5]
 * **Boiler Room** (2000) ![][US] ![][s35]
-* **Tetris** ![][GB] ![][US] ![][s4]
+* **Tetris** ![][UK] ![][US] ![][s4]
 * **Hidden Blade**《无名》![][CN] ![][NiT] ![][s35]
 * **Cyber Heist**《斷網》![][HK] ![][CN] ![][NiT] ![][s25]
 * **Journey to the West**《宇宙探索编辑部》![][CN] ![][s4]
