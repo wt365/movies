@@ -9,13 +9,24 @@
 
 ### Index
 
-2023: [July](#july-2023-7) | [June](#june-2023-3) | [May](#may-2023-7) | [Apr](#april-2023-15) | [March](#march-2023-7) | [Feb](#feb-2023-4) | [Jan](#jan-2023-10)
+2023: [Oct](#oct-2023-5) | [Sept](#sept-2023-2) | [Aug](#aug-2023-1) | [July](#july-2023-7) | [June](#june-2023-3) | [May](#may-2023-7) | [Apr](#april-2023-15) | [March](#march-2023-7) | [Feb](#feb-2023-4) | [Jan](#jan-2023-10)
 
 Previous Years: [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2023
 
-### Aug 2023
+### Oct 2023 (5)
+* **Mission Impossible - Dead Reckoning Part One** ![][US] ![][NiT] ![][s4]
+* **The White Storm 3: Heaven or Hell**《扫毒3:人在天涯》![][CN] ![][HK] ![][NiT] ![][s3]
+* **Chang An**《长安三万里》![][CN] ![][NiT] ![][s45]
+* **Under the Light**《坚如磐石》![][CN] ![][s3]
+* **Only the River Flows**《河边的错误》![][CN] ![][s45]
+
+### Sept 2023 (2)
+* **Death Notice**《暗杀风暴》![][CN] ![][HK] ![][NiT] ![][s3]
+* **Never Say Naver**《八角笼中》![][CN] ![][NiT] ![][s4]
+
+### Aug 2023 (1)
 * **Oppenheimer** ![][US] ![][UK] ![][s45]
 
 ### July 2023 (7)
