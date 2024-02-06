@@ -9,13 +9,13 @@
 
 ### Index
 
-2024: [Jan](#jan-2024)
+2024: [Jan](#jan-2024-10)
 
 Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2024
 
-### Jan 2024
+### Jan 2024 (10)
 * **Society of the Snow**《La Sociedad de la Nieve》(2023) ![][ES] ![][NiT] ![][s4]
 * **Wilderness**《황야》![][KR] ![][NiT] ![][s3]
 * **The Promised Land**《Bastarden》(2023) ![][DK] ![][NiT] ![][s4]
