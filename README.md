@@ -9,11 +9,19 @@
 
 ### Index
 
-2024: [Jan](#jan-2024-10)
+2024: [Feb](#feb-2024) | [Jan](#jan-2024-10)
 
 Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2024
+
+### Feb 2024
+* **Sound of Freedom** (2023) ![][US] ![][NiT] ![][s4]
+* **The Goldfinger**《金手指》(2023) ![][HK] ![][CN] ![][NiT] ![][s3]
+* **The Beekeeper** ![][US] ![][NiT] ![][s3]
+* **Truth in 24** (2008) ![][US] ![][NiT] ![][s45]
+* **12.12: The Day**《서울의 봄》(2023) ![][KR] ![][NiT] ![][s4]
+* **Pegasus 2**《飞驰人生2》![][CN] ![][s45]
 
 ### Jan 2024 (10)
 * **Society of the Snow**《La Sociedad de la Nieve》(2023) ![][ES] ![][NiT] ![][s4]
