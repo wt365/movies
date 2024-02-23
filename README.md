@@ -16,9 +16,11 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### Feb 2024
+* **The Pickpocket**《小武》(1998) ![][HK] ![][CN] ![][NiT] ![][s4]
+* **A Brighter Summer Day**《牯嶺街少年殺人事件》(1991) ![][TW] ![][NiT] ![][s5]
 * **Pegasus**《飞驰人生》(2019) ![][CN] ![][2nd] ![][NiT] ![][s4]
 * **Monster**《怪物》(2023) ![][JP] ![][NiT] ![][s4]
-* **Air Force One Down** (2024) ![][US] ![][NiT] ![][s15]
+* **Air Force One Down** ![][US] ![][NiT] ![][s15]
 * **Sound of Freedom** (2023) ![][US] ![][NiT] ![][s4]
 * **The Goldfinger**《金手指》(2023) ![][HK] ![][CN] ![][NiT] ![][s3]
 * **The Beekeeper** ![][US] ![][NiT] ![][s3]
