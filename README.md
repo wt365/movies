@@ -9,11 +9,17 @@
 
 ### Index
 
-2024: [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
+2024: [April](#april-2024) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
 
 Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2024
+
+### April 2024
+* **Dune: Part Two** ![][US] ![][CA] ![][NiT] ![][s35]
+* **Anatomy of a Fall**《Anatomie D'une Chute》(2023) ![][FR] ![][NiT] ![][s4]
+* **Robot Dreams** (2023) ![][ES] ![][FR] ![][NiT] ![][s5]
+* **Land of Bad** ![][US] ![][NiT] ![][s35]
 
 ### March 2024 (2)
 * **Challenge**《Вызов》(2023) ![][RU] ![][NiT] ![][s4]
