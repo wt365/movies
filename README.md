@@ -16,6 +16,8 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### April 2024
+* **Time Still Turns the Pages**《年少日记》(2023) ![][HK] ![][s4]
+* **Kim's Video** (2023) ![][US] ![][IT] ![][s45]
 * **Dune: Part Two** ![][US] ![][CA] ![][NiT] ![][s35]
 * **Anatomy of a Fall**《Anatomie D'une Chute》(2023) ![][FR] ![][NiT] ![][s4]
 * **Robot Dreams** (2023) ![][ES] ![][FR] ![][NiT] ![][s5]
