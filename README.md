@@ -16,6 +16,8 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### May 2024
+* **Spaceman** ![][US]  ![][CZ] ![][NiT] ![][s25]
+* **You Are My Hero**《你是我的英雄》![][CN] ![][s3]
 * **Hovering Blade**《彷徨之刃》![][CN] ![][s4]
 * **Article 20**《第二十条》![][CN] ![][NiT] ![][s4]
 * **The Unearthed Grave**《파묘》![][KR] ![][NiT] ![][s3]
