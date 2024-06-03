@@ -9,16 +9,18 @@
 
 ### Index
 
-2024: [May](#may-2024) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
+2024: [May](#may-2024-8) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
 
 Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2024
 
-### May 2024
+### May 2024 (8)
+* **Viva La Vida**《我们一起摇太阳》![][CN] ![][NiT] ![][s4]
 * **Civil War** ![][UK] ![][US] ![][NiT] ![][s4]
 * **Spaceman** ![][US]  ![][CZ] ![][NiT] ![][s25]
 * **You Are My Hero**《你是我的英雄》![][CN] ![][s3]
+* **I Miss You**《被我弄丢的你》![][CN] ![][NiT] ![][s35]
 * **Hovering Blade**《彷徨之刃》![][CN] ![][s4]
 * **Article 20**《第二十条》![][CN] ![][NiT] ![][s4]
 * **The Unearthed Grave**《파묘》![][KR] ![][NiT] ![][s3]
