@@ -9,11 +9,16 @@
 
 ### Index
 
-2024: [May](#may-2024-8) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
+2024: [June](#june-2024) | [May](#may-2024-8) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
 
 Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2024
+
+### June 2024
+* **Hit Man** (2023) ![][US] ![][NiT] ![][s35]
+* **The Last Frenzy**《末路狂花钱》![][CN] ![][NiT] ![][s3]
+* **Crisis Negotiators**《谈判专家》![][CN] ![][HK] ![][NiT] ![][s4]
 
 ### May 2024 (8)
 * **Viva La Vida**《我们一起摇太阳》![][CN] ![][NiT] ![][s4]
