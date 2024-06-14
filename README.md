@@ -16,9 +16,10 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### June 2024
+* **The Beast**《La Bête》(2023) ![][FR] ![][CA] ![][NiT] ![][s4]
 * **Hit Man** (2023) ![][US] ![][NiT] ![][s35]
 * **The Last Frenzy**《末路狂花钱》![][CN] ![][NiT] ![][s3]
-* **Crisis Negotiators**《谈判专家》![][CN] ![][HK] ![][NiT] ![][s4]
+* **Crisis Negotiators**《谈判专家》![][CN] ![][HK] ![][s4]
 
 ### May 2024 (8)
 * **Viva La Vida**《我们一起摇太阳》![][CN] ![][NiT] ![][s4]
