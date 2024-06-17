@@ -16,6 +16,10 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### June 2024
+* **Bridge of Spies** (2015) ![][US] ![][DE] ![][IN] ![][NiT] ![][s4]
+* **Going Vertical**《Движение вверх》(2017) ![][RU] ![][NiT] ![][s4]
+* **Black Dog**《狗阵》![][CN] ![][s4]
+* **Everest** (2015) ![][UK] ![][US] ![][IS] ![][NiT] ![][s45]
 * **The Beast**《La Bête》(2023) ![][FR] ![][CA] ![][NiT] ![][s4]
 * **Hit Man** (2023) ![][US] ![][NiT] ![][s35]
 * **The Last Frenzy**《末路狂花钱》![][CN] ![][NiT] ![][s3]
@@ -640,6 +644,7 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 [FR]: https://wt365.github.io/lib/svg/flag/fr.svg "France"
 [GR]: https://wt365.github.io/lib/svg/flag/gr.svg "Greece"
 [HK]: https://wt365.github.io/lib/svg/flag/hk.svg "Hong Kong"
+[IS]: https://wt365.github.io/lib/svg/flag/is.svg "Iceland"
 [IE]: https://wt365.github.io/lib/svg/flag/ie.svg "Ireland"
 [IN]: https://wt365.github.io/lib/svg/flag/in.svg "India"
 [IT]: https://wt365.github.io/lib/svg/flag/it.svg "Italy"
