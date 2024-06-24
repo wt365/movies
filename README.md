@@ -16,6 +16,11 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### June 2024
+* **Snow Leopard**《雪豹》(2023) ![][CN] ![][NiT] ![][s45]
+* **Three Old Boys**《三叉戟》![][CN] ![][NiT] ![][s3]
+* **Twilight of the Warriors: Walled In**《九龍城寨·圍城》![][HK] ![][CN] ![][NiT] ![][s25]
+* **Rush** (2013) ![][UK] ![][DE] ![][US] ![][NiT] ![][s5]
+* **Billy Lynn's Long Halftime Walk** (2016) ![][US] ![][GB] ![][CN] ![][NiT] ![][s4]
 * **Bridge of Spies** (2015) ![][US] ![][DE] ![][IN] ![][NiT] ![][s4]
 * **Going Vertical**《Движение вверх》(2017) ![][RU] ![][NiT] ![][s4]
 * **Black Dog**《狗阵》![][CN] ![][s4]
