@@ -16,6 +16,8 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### June 2024
+* **Dog Days Are Over**《前途海量》![][CN] ![][s35]
+* **Inside Out 2** ![][US] ![][s4]
 * **Inside Out** (2015) ![][US] ![][NiT] ![][s4]
 * **Too Many Ways to Be No. 1**《一个字头的诞生》(1997) ![][HK] ![][NiT] ![][s35]
 * **Snow Leopard**《雪豹》(2023) ![][CN] ![][NiT] ![][s45]
