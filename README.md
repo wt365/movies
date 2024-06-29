@@ -16,6 +16,7 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### June 2024
+* **Strangers When We Meet**《朝云暮雨》![][CN] ![][NiT] ![][s3]
 * **Full Alert**《高度戒備》(1997) ![][HK] ![][NiT] ![][s35]
 * **Dog Days Are Over**《前途海量》![][CN] ![][NiT] ![][s35]
 * **Inside Out 2** ![][US] ![][s4]
