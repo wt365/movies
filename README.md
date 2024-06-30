@@ -16,6 +16,9 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### June 2024
+* **Sinking of Japan**《日本沈沒》(2006) ![][JP] ![][NiT] ![][s35]
+* **A Quiet Place: Day One** ![][US] ![][s3]
+* **The Movie Emperor**《红毯先生》![][CN] ![][HK] ![][NiT] ![][s3]
 * **Strangers When We Meet**《朝云暮雨》![][CN] ![][NiT] ![][s3]
 * **Full Alert**《高度戒備》(1997) ![][HK] ![][NiT] ![][s35]
 * **Dog Days Are Over**《前途海量》![][CN] ![][NiT] ![][s35]
