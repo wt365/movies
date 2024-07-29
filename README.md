@@ -16,6 +16,9 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### July 2024
+* **Evacuate from the 21st Century**《从21世纪安全撤离》![][CN] ![][s45]
+* **Successor**《抓娃娃》![][CN] ![][s4]
+* **Decoded**《解密》![][CN] ![][s35]
 * **Walk the Line**《扫黑·绝不放弃》![][CN] ![][NiT] ![][s35]
 * **A Place Called Silence**《默杀》![][CN] ![][s4]
 
