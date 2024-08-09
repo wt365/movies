@@ -9,13 +9,16 @@
 
 ### Index
 
-2024: [July](#july-2024) | [June](#june-2024-22) | [May](#may-2024-8) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
+2024: [Aug](#aug-2024) | [July](#july-2024-5) | [June](#june-2024-22) | [May](#may-2024-8) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
 
 Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2024
 
-### July 2024
+### Aug 2024
+* **The Breaking Ice**《燃冬》(2023) ![][CN] ![][NiT] ![][s3]
+
+### July 2024 (5)
 * **Evacuate from the 21st Century**《从21世纪安全撤离》![][CN] ![][s45]
 * **Successor**《抓娃娃》![][CN] ![][s4]
 * **Decoded**《解密》![][CN] ![][s35]
