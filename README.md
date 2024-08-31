@@ -16,6 +16,7 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### Aug 2024
+* **Go for Broke**《重生》![][CN] ![][HK] ![][s3]
 * **Corrective Measures** (2022) ![][US] ![][CA] ![][NiT] ![][s25]
 * **I Love You to the Moon and Back**《穿过月亮的旅行》![][CN] ![][NiT] ![][s35]
 * **City on Fire**《龍虎風雲》(1987) ![][HK] ![][NiT] ![][s3]
