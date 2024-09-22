@@ -16,6 +16,7 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### Sept 2024
+* **The Chinese Family**《หลานม่า》(2024) ![][TH] ![][NiT] ![][s45]
 * **The Butterfly Effect** (2004) ![][US] ![][CA] ![][NiT] ![][s4]
 * **The Truman Show** (1998) ![][US] ![][NiT] ![][s45]
 * **Young Woman and the Sea** ![][US] ![][NiT] ![][s45]
