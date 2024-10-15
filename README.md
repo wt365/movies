@@ -9,13 +9,20 @@
 
 ### Index
 
-2024: [Sept](#spet-2024) | [Aug](#aug-2024-8) | [July](#july-2024-5) | [June](#june-2024-22) | [May](#may-2024-8) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
+2024: [Oct](#oct-2024) | [Sept](#sept-2024-4) | [Aug](#aug-2024-8) | [July](#july-2024-5) | [June](#june-2024-22) | [May](#may-2024-8) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
 
 Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2024
 
-### Sept 2024
+### Oct 2024
+* **Welcome to the Game**《绑架游戏》![][CN] ![][s4]
+* **Upstream**《逆行人生》![][CN] ![][NiT] ![][s3]
+* **The Wild Robot** ![][US] ![][NiT] ![][s4]
+* **The Platform 2**《El Hoyo 2》![][ES] ![][NiT] ![][s25]
+* **High Forces**《危机航线》![][HK] ![][CN] ![][s4]
+
+### Sept 2024 (4)
 * **The Chinese Family**《หลานม่า》(2024) ![][TH] ![][NiT] ![][s45]
 * **The Butterfly Effect** (2004) ![][US] ![][CA] ![][NiT] ![][s4]
 * **The Truman Show** (1998) ![][US] ![][NiT] ![][s45]
