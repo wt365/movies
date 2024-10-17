@@ -16,6 +16,7 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### Oct 2024
+* **Welcome to My Side**《欢迎来到我身边》![][CN] ![][NiT] ![][s3]
 * **Welcome to the Game**《绑架游戏》![][CN] ![][s4]
 * **Upstream**《逆行人生》![][CN] ![][NiT] ![][s3]
 * **The Wild Robot** ![][US] ![][NiT] ![][s4]
