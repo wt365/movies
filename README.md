@@ -16,7 +16,9 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### Oct 2024
-* **The Substance** ![][FR] ![][UK] ![][US] ![NiT] ![][s3]
+* **Den of Thieves** ![][US] ![][NiT] ![][s35]
+* **Saline Lake Project**《盐湖计划》![][CN] ![][NiT] ![][s3]
+* **The Substance** ![][FR] ![][UK] ![][US] ![][NiT] ![][s3]
 * **The Volunteers: The Battle of Life and Death**《志愿军：存亡之战》![][CN] ![][s3]
 * **Welcome to My Side**《欢迎来到我身边》![][CN] ![][NiT] ![][s3]
 * **Welcome to the Game**《绑架游戏》![][CN] ![][s4]
