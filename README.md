@@ -16,6 +16,9 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 ## 2024
 
 ### Nov 2024
+* **Love in the Time of Cholera** (2007) ![][NiT] ![][US] ![][MX] ![][UK] ![][s4]
+* **That Untold Story**《那个不为人知的故事》![][CN] ![][s3]
+* **A Long Shot**《老枪》![][CN] ![][s35] 
 * **Look Back**《ルックバック》![][JP] ![][NiT] ![][s45]
 * **Cesium Fallout**《焚城》![][HK] ![][CN] ![][s35]
 
