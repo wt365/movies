@@ -9,13 +9,19 @@
 
 ### Index
 
-2024: [Nov](#nov-2024) | [Oct](#oct-2024-10) | [Sept](#sept-2024-4) | [Aug](#aug-2024-8) | [July](#july-2024-5) | [June](#june-2024-22) | [May](#may-2024-8) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
+2024: [Dec](#dec-2024) | [Nov](#nov-2024-8) | [Oct](#oct-2024-10) | [Sept](#sept-2024-4) | [Aug](#aug-2024-8) | [July](#july-2024-5) | [June](#june-2024-22) | [May](#may-2024-8) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
 
 Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
 ## 2024
 
-### Nov 2024
+### Dec 2024
+* **Burning Stars**《孤星计划》![][CN] ![][s2]
+
+### Nov 2024 (8)
+* **Her Story**《好东西》![][CN] ![][s4]
+* **Caught by the Tides**《风流一代》![][CN] ![][s3]
+* **Brave New World**《胜券在握》![][CN] ![][s35]
 * **Love in the Time of Cholera** (2007) ![][NiT] ![][US] ![][MX] ![][UK] ![][s4]
 * **That Untold Story**《那个不为人知的故事》![][CN] ![][s3]
 * **A Long Shot**《老枪》![][CN] ![][s35] 
