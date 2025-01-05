@@ -9,13 +9,22 @@
 
 ### Index
 
-2024: [Dec](#dec-2024) | [Nov](#nov-2024-8) | [Oct](#oct-2024-10) | [Sept](#sept-2024-4) | [Aug](#aug-2024-8) | [July](#july-2024-5) | [June](#june-2024-22) | [May](#may-2024-8) | [April](#april-2024-8) | [March](#march-2024-2) | [Feb](#feb-2024-14) | [Jan](#jan-2024-10)
+2025: [Jan](#jan-2025)
 
-Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
+Previous Years: [2024](#2024-104) | [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](#2020-53) | [2019](#2019-63) | [2018](#2018-58)
 
-## 2024
+## 2025
 
-### Dec 2024
+### Jan 2025
+* **Honey Money Phony**《“骗骗”喜欢你》(2024) ![][CN] ![][s3]
+
+## 2024 (104)
+
+### Dec 2024 (5)
+* **Octopus with Broken Arms**《误杀3》![][CN] ![][HK] ![][s4]
+* **Mufasa: The Lion King** ![][US] ![][s4]
+* **Even If This Love Disappears Tonight**《今夜、世界からこの恋が消えても》(2022) ![][JP] ![][NiT] ![][s4]
+* **Maharaja** ![][IN] ![][NiT] ![][s4]
 * **Burning Stars**《孤星计划》![][CN] ![][s2]
 
 ### Nov 2024 (8)
@@ -41,7 +50,7 @@ Previous Years: [2023](#2023-67) | [2022](#2022-88) | [2021](#2021-46) | [2020](
 * **High Forces**《危机航线》![][HK] ![][CN] ![][s4]
 
 ### Sept 2024 (4)
-* **The Chinese Family**《หลานม่า》(2024) ![][TH] ![][NiT] ![][s45]
+* **The Chinese Family**《หลานม่า》![][TH] ![][NiT] ![][s45]
 * **The Butterfly Effect** (2004) ![][US] ![][CA] ![][NiT] ![][s4]
 * **The Truman Show** (1998) ![][US] ![][NiT] ![][s45]
 * **Young Woman and the Sea** ![][US] ![][NiT] ![][s45]
